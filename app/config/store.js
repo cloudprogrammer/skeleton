@@ -7,12 +7,6 @@ const middleware = [];
 //   middleware.push(logger);
 // }
 
-const onComplete = (error, success) => {
-  if (error) {
-    console.log('Error creating Redux store', error);
-  }
-};
-
 const store = createStore(reducers, compose(applyMiddleware(...middleware)));
 
 export default store;

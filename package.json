@@ -32,6 +32,7 @@
     "react": "16.0.0",
     "react-native": "0.50.3",
     "react-native-dropdownalert": "^3.1.2",
+    "react-native-extended-stylesheet": "^0.8.0",
     "react-native-progress": "^3.4.0",
     "react-navigation": "^1.0.0-beta.26",
     "react-redux": "^5.0.6",

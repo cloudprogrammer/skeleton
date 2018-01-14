@@ -11,7 +11,7 @@ const Container = ({ children, background, header }) => (
 );
 
 Container.propTypes = {
-  children: PropTypes.object,
+  children: PropTypes.oneOfType([PropTypes.object, PropTypes.arrayOf(PropTypes.object)]),
   background: PropTypes.string,
   header: PropTypes.string,
 };
