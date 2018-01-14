@@ -16,5 +16,11 @@ Skeleton is a boiler plate app for React Native.
  - Loading screen 
 	 - Check the device's storage and navigate to correct route depending on user status  
  - Custom navigation components (drawer, navbar)
+ 
+ ## Future
+ - OAuth
+ - Custom fonts 
+ - Lists
+ - Different navigation options (drawer, stack, tab etc)
 ----------
 *Developed by Mudasar Javed* @ *[RA1N ENTERTAINMENT](ra1n-entertainment.net)*
