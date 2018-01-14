@@ -49,7 +49,7 @@ class Intro extends Component {
                 - React Native Extended Stylesheet
           </Text>
           <Text style={[Styles.aboutText, { paddingTop: 10, paddingHorizontal: 10, color: this.props.text }]}>
-                Skeleton also has a themeing system and a loading screen
+                Skeleton also has a theming system and a loading screen
           </Text>
         </View>
         <View style={Styles.bottomButton}>
