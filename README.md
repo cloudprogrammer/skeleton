@@ -7,8 +7,8 @@ Skeleton is a boiler plate app for React Native.
  - Redux & React Redux
  - React Native Dropdown Alert
  - React Native Progress
- - ESLint
  - React Native Extended Stylesheet
+ - ESLint
 
 ## Features
  - Theming system
