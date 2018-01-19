@@ -1,7 +1,6 @@
-
 # Skeleton
 Skeleton is a boiler plate app for React Native.
-
+Expo link: [Skeleton](https://expo.io/@cloudprogrammer/skeleton)
 ## Integrations
  - React Native Navigation
  - Redux & React Redux
